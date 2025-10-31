@@ -30,13 +30,14 @@ The goal was to build a **personalized recommendation engine**, discover **user 
 
 | **Category** | **Tools / Methods** |
 |---------------|----------------------|
-| **Languages** | Python 3.10 + |
+| **Languages** | Python 3.10+ |
 | **Libraries** | Pandas • NumPy • SciPy • scikit-learn |
 | **Data Handling** | Sparse Matrices • Data Cleaning • Feature Mapping |
 | **Modeling** | User–User Collaborative Filtering • Cosine Similarity |
 | **Clustering** | KMeans • Agglomerative (Ward) • DBSCAN |
 | **Regression** | Linear • Polynomial • Decision Tree • K-Fold CV |
 | **Outputs** | CSV • libsvm • Text Reports |
+
 
 
 ---
