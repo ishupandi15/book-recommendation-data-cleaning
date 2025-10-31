@@ -13,8 +13,7 @@ Two-phase project that cleans and analyzes book ratings data, builds personalize
 
 ## 📂 Structure
 
-<img width="333" height="400" alt="image" src="https://github.com/user-attachments/assets/624d8481-c799-4146-88eb-b84345682b8d" />
-
+<img width="298" height="503" alt="image" src="https://github.com/user-attachments/assets/613127ee-123f-4697-9427-c20a6f43950f" />
 
 ---
 
