@@ -13,19 +13,7 @@ Two-phase project that cleans and analyzes book ratings data, builds personalize
 
 ## 📂 Structure
 
-book-recommendation-data-cleaning/
-├── data/
-├── step-1/
-├── step-2/
-│ ├── task1_recommender.py
-│ ├── task2_clustering.py
-│ ├── task3_estimate_ages.py
-│ └── outputs/
-├── Project_Step1-2.docx
-├── Project_Step2_IFT511-1.docx
-├── Book_Recommendations1.csv
-├── ratings3-2.libsvm
-└── README.md
+<img width="333" height="400" alt="image" src="https://github.com/user-attachments/assets/624d8481-c799-4146-88eb-b84345682b8d" />
 
 
 ---
