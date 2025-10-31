@@ -27,15 +27,17 @@ The goal was to build a **personalized recommendation engine**, discover **user 
 ---
 
 ## ⚙️ Technologies & Methods
-| Category | Tools / Methods |
-|-----------|----------------|
+
+| **Category** | **Tools / Methods** |
+|---------------|----------------------|
 | **Languages** | Python 3.10 + |
 | **Libraries** | Pandas • NumPy • SciPy • scikit-learn |
 | **Data Handling** | Sparse Matrices • Data Cleaning • Feature Mapping |
 | **Modeling** | User–User Collaborative Filtering • Cosine Similarity |
-| **Clustering** | KMeans • Agglomerative (ward) • DBSCAN |
+| **Clustering** | KMeans • Agglomerative (Ward) • DBSCAN |
 | **Regression** | Linear • Polynomial • Decision Tree • K-Fold CV |
 | **Outputs** | CSV • libsvm • Text Reports |
+
 
 ---
 
@@ -67,12 +69,14 @@ The goal was to build a **personalized recommendation engine**, discover **user 
 ---
 
 ## 📈 Results Summary
-| Output File | Purpose |
-|--------------|----------|
+
+| 📄 **Output File** | 🧠 **Purpose** |
+|--------------------|----------------|
 | `ratings3-2.libsvm` | Clean, sparse matrix of user–book ratings |
-| `Book_Recommendations1.csv` | Personalized top-5 recommendations |
+| `Book_Recommendations1.csv` | Personalized top-5 book recommendations |
 | `clusters_top_books_k10.txt` | Top-10 popular books per user cluster |
-| `User_Age_Predictions.csv` | Estimated ages of users missing data |
+| `User_Age_Predictions.csv` | Estimated ages for users missing demographic data |
+
 
 ---
 
